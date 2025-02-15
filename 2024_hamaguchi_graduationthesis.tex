@@ -1,0 +1,61 @@
+\documentclass[11pt, dvipdfmx]{jarticle}
+
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{sty/fancyheadings}
+\usepackage{sty/sotsuron2009}
+\usepackage{here}
+\usepackage{ascmac}
+\usepackage[subrefformat=parens]{subcaption}
+\usepackage{here}
+\usepackage{cite}
+\usepackage{amsmath}
+\pagestyle{empty}
+\usepackage{bm}
+\usepackage{comment}
+\usepackage{setspace}
+\usepackage{autobreak}
+\usepackage{pdfpages}
+\linesparpage{40}
+%\makeatletter
+%\renewcommand{\theequation}{
+%\thesection.\arabic{equation}}
+%\@addtoreset{equation}{section}
+%\makeatother
+\pagestyle{fancy}
+
+\newcommand{\argmin}{\mathop{\rm arg~min}\limits}
+\newcommand{\Section}[1]{\section*{#1}
+\addcontentsline{toc}{section}{#1}}
+\newcommand{\Subsection}[1]{\section*{#1}
+\addcontentsline{toc}{subsection}{#1}}
+\renewcommand{\refname}{}
+
+
+\begin{document}
+\includepdf[pages=-]{hyoushi.pdf}
+
+\thispagestyle{empty}
+\include{chapters/abstract}        % 概要
+\thispagestyle{empty}
+\include{chapters/abstract_english}
+\thispagestyle{empty}
+\newpage
+\tableofcontents
+\thispagestyle{empty}
+
+%章ごとに呼び出し
+
+\include{chapters/introduction}    % 緒言
+\include{chapters/sec2}            % 本文
+\include{chapters/sec3}
+\include{chapters/sec4}
+\include{chapters/sec5}
+% 必要に応じて章を増やす，またファイル名もsec2, sec3である必要はない
+% このmain.texが置いてあるディレクトリ内にある「chapters」フォルダ以下に
+% 自分がわかりやすい名前のtexファイルを作成し，\include{chapters/*****}で
+% 呼び出せば良い
+\include{chapters/conclusion}      % 結言
+\include{chapters/acknowledgement} % 謝辞
+\include{chapters/bibliography}    % 参考文献
+
+\end{document}

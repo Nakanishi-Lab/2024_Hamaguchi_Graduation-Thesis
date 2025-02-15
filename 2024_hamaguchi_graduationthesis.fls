@@ -1,0 +1,471 @@
+PWD c:/Users/d2030/OneDrive/デスクトップ/2024_Hamaguchi_Graduation-Thesis
+INPUT c:/texlive/2024/texmf.cnf
+INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2024/texmf-var/web2c/euptex/platex.fmt
+INPUT c:/Users/d2030/OneDrive/デスクトップ/2024_Hamaguchi_Graduation-Thesis/2024_hamaguchi_graduationthesis.tex
+OUTPUT 2024_hamaguchi_graduationthesis.log
+INPUT c:/texlive/2024/texmf-dist/tex/platex/base/jarticle.cls
+INPUT c:/texlive/2024/texmf-dist/tex/platex/base/jarticle.cls
+INPUT c:/texlive/2024/texmf-dist/tex/platex/base/jsize11.clo
+INPUT c:/texlive/2024/texmf-dist/tex/platex/base/jsize11.clo
+INPUT c:/texlive/2024/texmf-dist/tex/platex/base/jsize11.clo
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT ./sty/fancyheadings.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyheadings.sty
+INPUT sty/fancyheadings.sty
+INPUT ./sty/sotsuron2009.sty
+INPUT sty/sotsuron2009.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/here/here.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/here/here.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/ascmac/ascmac.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/ascmac/ascmac.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/ascmac/tascmac.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/ascmac/tascmac.sty
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/ascmac/ascgrp.tfm
+INPUT c:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/cite/cite.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/cite/cite.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/tools/bm.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/tools/bm.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/comment/comment.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/comment/comment.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/autobreak/autobreak.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/autobreak/autobreak.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/pdfpages/ppdvipdfmx.def
+INPUT c:/texlive/2024/texmf-dist/tex/latex/pdfpages/ppdvipdfmx.def
+INPUT c:/texlive/2024/texmf-dist/tex/latex/pdfpages/ppdvipdfmx.def
+INPUT c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-dvipdfmx.def
+INPUT c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-dvipdfmx.def
+INPUT ./2024_hamaguchi_graduationthesis.aux
+INPUT ./2024_hamaguchi_graduationthesis.aux
+INPUT 2024_hamaguchi_graduationthesis.aux
+INPUT ./chapters/abstract.aux
+INPUT ./chapters/abstract.aux
+INPUT chapters/abstract.aux
+INPUT ./chapters/abstract_english.aux
+INPUT ./chapters/abstract_english.aux
+INPUT chapters/abstract_english.aux
+INPUT ./chapters/introduction.aux
+INPUT ./chapters/introduction.aux
+INPUT chapters/introduction.aux
+INPUT ./chapters/sec2.aux
+INPUT ./chapters/sec2.aux
+INPUT chapters/sec2.aux
+INPUT ./chapters/sec3.aux
+INPUT ./chapters/sec3.aux
+INPUT chapters/sec3.aux
+INPUT ./chapters/sec4.aux
+INPUT ./chapters/sec4.aux
+INPUT chapters/sec4.aux
+INPUT ./chapters/sec5.aux
+INPUT ./chapters/sec5.aux
+INPUT chapters/sec5.aux
+INPUT ./chapters/conclusion.aux
+INPUT ./chapters/conclusion.aux
+INPUT chapters/conclusion.aux
+INPUT ./chapters/acknowledgement.aux
+INPUT ./chapters/acknowledgement.aux
+INPUT chapters/acknowledgement.aux
+INPUT ./chapters/bibliography.aux
+INPUT ./chapters/bibliography.aux
+INPUT chapters/bibliography.aux
+OUTPUT 2024_hamaguchi_graduationthesis.aux
+INPUT c:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT ./hyoushi.pdf
+INPUT ./hyoushi.pdf
+INPUT extractbb -O hyoushi.pdf
+INPUT extractbb -p 1 -B cropbox -O hyoushi.pdf
+OUTPUT 2024_hamaguchi_graduationthesis.dvi
+INPUT ./chapters/abstract.tex
+INPUT ./chapters/abstract.tex
+OUTPUT chapters/abstract.aux
+INPUT ./chapters/abstract.tex
+INPUT ./chapters/abstract.tex
+INPUT chapters/abstract.tex
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./chapters/abstract_english.tex
+INPUT ./chapters/abstract_english.tex
+OUTPUT chapters/abstract_english.aux
+INPUT ./chapters/abstract_english.tex
+INPUT ./chapters/abstract_english.tex
+INPUT chapters/abstract_english.tex
+INPUT ./2024_hamaguchi_graduationthesis.toc
+INPUT ./2024_hamaguchi_graduationthesis.toc
+INPUT 2024_hamaguchi_graduationthesis.toc
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min8.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth8.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth6.tfm
+OUTPUT 2024_hamaguchi_graduationthesis.toc
+INPUT ./chapters/introduction.tex
+INPUT ./chapters/introduction.tex
+OUTPUT chapters/introduction.aux
+INPUT ./chapters/introduction.tex
+INPUT ./chapters/introduction.tex
+INPUT chapters/introduction.tex
+INPUT ./chapters/sec2.tex
+INPUT ./chapters/sec2.tex
+OUTPUT chapters/sec2.aux
+INPUT ./chapters/sec2.tex
+INPUT ./chapters/sec2.tex
+INPUT chapters/sec2.tex
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./image/MPA_kousei.png
+INPUT ./image/MPA_kousei.png
+INPUT ./image/MPA_kousei.png
+INPUT extractbb -B cropbox -O image/MPA_kousei.png
+INPUT ./image/MPA_dousa.png
+INPUT ./image/MPA_dousa.png
+INPUT ./image/MPA_dousa.png
+INPUT extractbb -B cropbox -O image/MPA_dousa.png
+INPUT ./image/hikaku.jpg
+INPUT ./image/hikaku.jpg
+INPUT ./image/hikaku.jpg
+INPUT extractbb -B cropbox -O image/hikaku.jpg
+INPUT ./image/kinkokkaku.JPG
+INPUT ./image/kinkokkaku.JPG
+INPUT ./image/kinkokkaku.JPG
+INPUT extractbb -B cropbox -O image/kinkokkaku.JPG
+INPUT ./image/takoJPG.JPG
+INPUT ./image/takoJPG.JPG
+INPUT ./image/takoJPG.JPG
+INPUT extractbb -B cropbox -O image/takoJPG.JPG
+INPUT ./image/robot_scale.JPG
+INPUT ./image/robot_scale.JPG
+INPUT ./image/robot_scale.JPG
+INPUT extractbb -B cropbox -O image/robot_scale.JPG
+INPUT ./image/mosiki.JPG
+INPUT ./image/mosiki.JPG
+INPUT ./image/mosiki.JPG
+INPUT extractbb -B cropbox -O image/mosiki.JPG
+INPUT ./image/move1all.png
+INPUT ./image/move1all.png
+INPUT ./image/move1all.png
+INPUT extractbb -B cropbox -O image/move1all.png
+INPUT ./image/move2all.png
+INPUT ./image/move2all.png
+INPUT ./image/move2all.png
+INPUT extractbb -B cropbox -O image/move2all.png
+INPUT ./chapters/sec3.tex
+INPUT ./chapters/sec3.tex
+OUTPUT chapters/sec3.aux
+INPUT ./chapters/sec3.tex
+INPUT ./chapters/sec3.tex
+INPUT chapters/sec3.tex
+INPUT ./image/apearance3_1.png
+INPUT ./image/apearance3_1.png
+INPUT ./image/apearance3_1.png
+INPUT extractbb -B cropbox -O image/apearance3_1.png
+INPUT ./image/kokkaku.png
+INPUT ./image/kokkaku.png
+INPUT ./image/kokkaku.png
+INPUT extractbb -B cropbox -O image/kokkaku.png
+INPUT ./image/ujo.JPG
+INPUT ./image/ujo.JPG
+INPUT ./image/ujo.JPG
+INPUT extractbb -B cropbox -O image/ujo.JPG
+INPUT ./image/degree_jikken.png
+INPUT ./image/degree_jikken.png
+INPUT ./image/degree_jikken.png
+INPUT extractbb -B cropbox -O image/degree_jikken.png
+INPUT ./image/setukanmaku.jpg
+INPUT ./image/setukanmaku.jpg
+INPUT ./image/setukanmaku.jpg
+INPUT extractbb -B cropbox -O image/setukanmaku.jpg
+INPUT ./image/model_1.jpg
+INPUT ./image/model_1.jpg
+INPUT ./image/model_1.jpg
+INPUT extractbb -B cropbox -O image/model_1.jpg
+INPUT ./image/model_2.jpg
+INPUT ./image/model_2.jpg
+INPUT ./image/model_2.jpg
+INPUT extractbb -B cropbox -O image/model_2.jpg
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin8.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin6.tfm
+INPUT ./image/model_2_open.jpg
+INPUT ./image/model_2_open.jpg
+INPUT ./image/model_2_open.jpg
+INPUT extractbb -B cropbox -O image/model_2_open.jpg
+INPUT ./image/model_2_close.jpg
+INPUT ./image/model_2_close.jpg
+INPUT ./image/model_2_close.jpg
+INPUT extractbb -B cropbox -O image/model_2_close.jpg
+INPUT ./chapters/sec4.tex
+INPUT ./chapters/sec4.tex
+OUTPUT chapters/sec4.aux
+INPUT ./chapters/sec4.tex
+INPUT ./chapters/sec4.tex
+INPUT chapters/sec4.tex
+INPUT ./image/MPA_tanbu_1_1.jpg
+INPUT ./image/MPA_tanbu_1_1.jpg
+INPUT ./image/MPA_tanbu_1_1.jpg
+INPUT extractbb -B cropbox -O image/MPA_tanbu_1_1.jpg
+INPUT ./image/MPA_tanbu_1_2.jpg
+INPUT ./image/MPA_tanbu_1_2.jpg
+INPUT ./image/MPA_tanbu_1_2.jpg
+INPUT extractbb -B cropbox -O image/MPA_tanbu_1_2.jpg
+INPUT ./image/MPA_tanbu_2_2.jpg
+INPUT ./image/MPA_tanbu_2_2.jpg
+INPUT ./image/MPA_tanbu_2_2.jpg
+INPUT extractbb -B cropbox -O image/MPA_tanbu_2_2.jpg
+INPUT ./image/MPA_tanbu_2_1.jpg
+INPUT ./image/MPA_tanbu_2_1.jpg
+INPUT ./image/MPA_tanbu_2_1.jpg
+INPUT extractbb -B cropbox -O image/MPA_tanbu_2_1.jpg
+INPUT ./image/tanbubuhin.png
+INPUT ./image/tanbubuhin.png
+INPUT ./image/tanbubuhin.png
+INPUT extractbb -B cropbox -O image/tanbubuhin.png
+INPUT ./image/MPA_cap.png
+INPUT ./image/MPA_cap.png
+INPUT ./image/MPA_cap.png
+INPUT extractbb -B cropbox -O image/MPA_cap.png
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm
+INPUT ./image/messhu_hikaku_1.jpg
+INPUT ./image/messhu_hikaku_1.jpg
+INPUT ./image/messhu_hikaku_1.jpg
+INPUT extractbb -B cropbox -O image/messhu_hikaku_1.jpg
+INPUT ./image/messhu_hikaku_2.jpg
+INPUT ./image/messhu_hikaku_2.jpg
+INPUT ./image/messhu_hikaku_2.jpg
+INPUT extractbb -B cropbox -O image/messhu_hikaku_2.jpg
+INPUT ./image/hikaku_MPA_1.jpg
+INPUT ./image/hikaku_MPA_1.jpg
+INPUT ./image/hikaku_MPA_1.jpg
+INPUT extractbb -B cropbox -O image/hikaku_MPA_1.jpg
+INPUT ./image/hikaku_MPA_2.jpg
+INPUT ./image/hikaku_MPA_2.jpg
+INPUT ./image/hikaku_MPA_2.jpg
+INPUT extractbb -B cropbox -O image/hikaku_MPA_2.jpg
+INPUT ./image/messhu_tejyun.jpg
+INPUT ./image/messhu_tejyun.jpg
+INPUT ./image/messhu_tejyun.jpg
+INPUT extractbb -B cropbox -O image/messhu_tejyun.jpg
+INPUT ./image/ujyoukin.jpg
+INPUT ./image/ujyoukin.jpg
+INPUT ./image/ujyoukin.jpg
+INPUT extractbb -B cropbox -O image/ujyoukin.jpg
+INPUT ./image/syuseki_1.JPG
+INPUT ./image/syuseki_1.JPG
+INPUT ./image/syuseki_1.JPG
+INPUT extractbb -B cropbox -O image/syuseki_1.JPG
+INPUT ./image/air_moshiki.png
+INPUT ./image/air_moshiki.png
+INPUT ./image/air_moshiki.png
+INPUT extractbb -B cropbox -O image/air_moshiki.png
+INPUT ./image/tanbu_parts.jpg
+INPUT ./image/tanbu_parts.jpg
+INPUT ./image/tanbu_parts.jpg
+INPUT extractbb -B cropbox -O image/tanbu_parts.jpg
+INPUT ./image/MPA_irast.jpg
+INPUT ./image/MPA_irast.jpg
+INPUT ./image/MPA_irast.jpg
+INPUT extractbb -B cropbox -O image/MPA_irast.jpg
+INPUT ./image/asenburi_tanbu.png
+INPUT ./image/asenburi_tanbu.png
+INPUT ./image/asenburi_tanbu.png
+INPUT extractbb -B cropbox -O image/asenburi_tanbu.png
+INPUT ./image/real_tanbu.jpg
+INPUT ./image/real_tanbu.jpg
+INPUT ./image/real_tanbu.jpg
+INPUT extractbb -B cropbox -O image/real_tanbu.jpg
+INPUT ./image/uyjoukin_new.jpg
+INPUT ./image/uyjoukin_new.jpg
+INPUT ./image/uyjoukin_new.jpg
+INPUT extractbb -B cropbox -O image/uyjoukin_new.jpg
+INPUT ./image/chousetu_MPA.jpg
+INPUT ./image/chousetu_MPA.jpg
+INPUT ./image/chousetu_MPA.jpg
+INPUT extractbb -B cropbox -O image/chousetu_MPA.jpg
+INPUT ./image/wansetu_MPA.jpg
+INPUT ./image/wansetu_MPA.jpg
+INPUT ./image/wansetu_MPA.jpg
+INPUT extractbb -B cropbox -O image/wansetu_MPA.jpg
+INPUT ./image/zensetu_MPA.jpg
+INPUT ./image/zensetu_MPA.jpg
+INPUT ./image/zensetu_MPA.jpg
+INPUT extractbb -B cropbox -O image/zensetu_MPA.jpg
+INPUT ./chapters/sec5.tex
+INPUT ./chapters/sec5.tex
+OUTPUT chapters/sec5.aux
+INPUT ./chapters/sec5.tex
+INPUT ./chapters/sec5.tex
+INPUT chapters/sec5.tex
+INPUT ./image/jikki_2.png
+INPUT ./image/jikki_2.png
+INPUT ./image/jikki_2.png
+INPUT extractbb -B cropbox -O image/jikki_2.png
+INPUT ./image/marker.jpg
+INPUT ./image/marker.jpg
+INPUT ./image/marker.jpg
+INPUT extractbb -B cropbox -O image/marker.jpg
+INPUT ./image/chousetu-wansetu_edited.png
+INPUT ./image/chousetu-wansetu_edited.png
+INPUT ./image/chousetu-wansetu_edited.png
+INPUT extractbb -B cropbox -O image/chousetu-wansetu_edited.png
+INPUT ./image/wansetu-zensetu_edited.png
+INPUT ./image/wansetu-zensetu_edited.png
+INPUT ./image/wansetu-zensetu_edited.png
+INPUT extractbb -B cropbox -O image/wansetu-zensetu_edited.png
+INPUT ./image/zensetu-sisetu_edited.png
+INPUT ./image/zensetu-sisetu_edited.png
+INPUT ./image/zensetu-sisetu_edited.png
+INPUT extractbb -B cropbox -O image/zensetu-sisetu_edited.png
+INPUT ./image/kadouiki_graph.jpg
+INPUT ./image/kadouiki_graph.jpg
+INPUT ./image/kadouiki_graph.jpg
+INPUT extractbb -B cropbox -O image/kadouiki_graph.jpg
+INPUT ./image/kenkotei.jpg
+INPUT ./image/kenkotei.jpg
+INPUT ./image/kenkotei.jpg
+INPUT extractbb -B cropbox -O image/kenkotei.jpg
+INPUT ./image/moshiki_edited.png
+INPUT ./image/moshiki_edited.png
+INPUT ./image/moshiki_edited.png
+INPUT extractbb -B cropbox -O image/moshiki_edited.png
+INPUT ./image/model_jikki_defference.png
+INPUT ./image/model_jikki_defference.png
+INPUT ./image/model_jikki_defference.png
+INPUT extractbb -B cropbox -O image/model_jikki_defference.png
+INPUT ./chapters/conclusion.tex
+INPUT ./chapters/conclusion.tex
+OUTPUT chapters/conclusion.aux
+INPUT ./chapters/conclusion.tex
+INPUT ./chapters/conclusion.tex
+INPUT chapters/conclusion.tex
+INPUT ./chapters/acknowledgement.tex
+INPUT ./chapters/acknowledgement.tex
+OUTPUT chapters/acknowledgement.aux
+INPUT ./chapters/acknowledgement.tex
+INPUT ./chapters/acknowledgement.tex
+INPUT chapters/acknowledgement.tex
+INPUT ./chapters/bibliography.tex
+INPUT ./chapters/bibliography.tex
+OUTPUT chapters/bibliography.aux
+INPUT ./chapters/bibliography.tex
+INPUT ./chapters/bibliography.tex
+INPUT chapters/bibliography.tex
+INPUT ./2024_hamaguchi_graduationthesis.bbl
+INPUT ./2024_hamaguchi_graduationthesis.bbl
+INPUT 2024_hamaguchi_graduationthesis.bbl
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT 2024_hamaguchi_graduationthesis.aux
+INPUT ./chapters/abstract.aux
+INPUT ./chapters/abstract.aux
+INPUT chapters/abstract.aux
+INPUT ./chapters/abstract_english.aux
+INPUT ./chapters/abstract_english.aux
+INPUT chapters/abstract_english.aux
+INPUT ./chapters/introduction.aux
+INPUT ./chapters/introduction.aux
+INPUT chapters/introduction.aux
+INPUT ./chapters/sec2.aux
+INPUT ./chapters/sec2.aux
+INPUT chapters/sec2.aux
+INPUT ./chapters/sec3.aux
+INPUT ./chapters/sec3.aux
+INPUT chapters/sec3.aux
+INPUT ./chapters/sec4.aux
+INPUT ./chapters/sec4.aux
+INPUT chapters/sec4.aux
+INPUT ./chapters/sec5.aux
+INPUT ./chapters/sec5.aux
+INPUT chapters/sec5.aux
+INPUT ./chapters/conclusion.aux
+INPUT ./chapters/conclusion.aux
+INPUT chapters/conclusion.aux
+INPUT ./chapters/acknowledgement.aux
+INPUT ./chapters/acknowledgement.aux
+INPUT chapters/acknowledgement.aux
+INPUT ./chapters/bibliography.aux
+INPUT ./chapters/bibliography.aux
+INPUT chapters/bibliography.aux

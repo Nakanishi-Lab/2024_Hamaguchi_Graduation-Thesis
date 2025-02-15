@@ -1,0 +1,53 @@
+\begin{thebibliography}{10}
+
+\bibitem{2003722}
+則次俊郎.
+\newblock 空気圧ソフトアクチュエータと人間親和メカニズム.
+\newblock 日本ロボット学会誌, Vol.~21, No.~7, pp. 722--726, 2003.
+
+\bibitem{wakimoto}
+脇元修一.
+\newblock 細径mckibben型人工筋の開発と用途開拓.
+\newblock 計測と制御, Vol.~57, No.~11, pp. 812--815, 2018.
+
+\bibitem{森田隆介2016}
+森田隆介, 鈴森康一, 車谷駿一.
+\newblock 細径マッキベン人工筋を用いた筋骨格ロボットの歩行動作実現.
+\newblock ロボティクス・メカトロニクス講演会講演概要集, Vol. 2016, pp. 2P2--12a3, 2016.
+
+\bibitem{森和也2014}
+森和也, 脇元修一, 高岡真幸, 鈴森康一.
+\newblock 3p1-v05 細径mckibben型人工筋肉を集積したタコ腕模倣メカニズムの開発(フレキシブルロボット・メカニズム).
+\newblock ロボティクス・メカトロニクス講演会講演概要集, Vol. 2014, pp. \_3P1--V05\_1--\_3P1--V05\_4, 2014.
+
+\bibitem{jmse10121804}
+Xi~Chen, Jiawei Li, Shihao Hu, Songjie Han, Kaixin Liu, Biye Pan, Jixin Wang, Gang Wang, and Xinmeng Ma.
+\newblock Study on the design and experimental research on a bionic crab robot with amphibious multi-modal movement.
+\newblock {\em Journal of Marine Science and Engineering}, Vol.~10, No.~12, 2022.
+
+\bibitem{2003}
+齋藤昭彦.
+\newblock 骨格筋の構造.
+\newblock 理学療法科学, Vol.~18, No.~1, pp. 49--53, 2003.
+
+\bibitem{hasegawa}
+中西大輔, 長谷川侑大, 浪花啓右, 杉本靖博博.
+\newblock 細径空圧筋を用いた羽状筋および外骨格生物模倣ロボットの開発.
+\newblock ロボティクス・メカトロニクス講演会講演概要集, Vol. 2024, pp. 2A1--L08, 2024.
+
+\bibitem{中西大輔2020}
+中西大輔, 加原竜太, 浪花啓右, 杉本靖博.
+\newblock 二関節四筋を有する空圧筋脚口ボットの脚先軌道制御法の提案.
+\newblock ロボティクス・メカトロニクス講演会講演概要集, Vol. 2020, pp. 1P2--H08, 2020.
+
+\bibitem{1390282680917523328}
+俊幸土井, 修一脇元, 康一鈴森, 岳文神田.
+\newblock 1p1-b03 細径mckibben型人工筋の集積化に関する研究 : 第1報:収縮率と収縮力の静特性の測定.
+\newblock ロボティクス・メカトロニクス講演会講演概要集, Vol. 2015, No.~0, pp. 1P1--B03, 2015.
+
+\bibitem{warner1977biology}
+G.F. Warner.
+\newblock {\em The Biology of Crabs}.
+\newblock Elek, 1977.
+
+\end{thebibliography}
